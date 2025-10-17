@@ -42,7 +42,7 @@ else:
 
 # Hiperparámetros
 C = 1.0
-eta = 0.01          # tasa de aprendizaje
+eta = 0.1          # tasa de aprendizaje
 epochs = 80
 batch_size = 32
 seed = 42
